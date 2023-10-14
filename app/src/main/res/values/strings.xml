@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android R&amp;D</string>
+    <string name="title_activity_basics">BasicsActivity</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="title_activity_basic_layouts">BasicLayoutsActivity</string>
+    <string name="search">Search</string>
+    <string name="placeholder_search">Search</string>
+    <string name="align_your_body">Align your Body</string>
+    <string name="favorite_collections">Favorite Collections</string>
+    <string name="account">Account</string>
+    <string name="spa">Spa</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
